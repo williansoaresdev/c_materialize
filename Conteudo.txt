@@ -1,0 +1,26 @@
+Cor class red darken-1 ou lighten-2
+accent-3
+Texto blue-text text-lighten-3
+Area central da pagina
+Class container
+
+Grid
+Class row / class "col s1" fração de 12
+S de small
+Para mobile
+offset-s6 para pular 6 colunas por exemplo
+s <= 600px
+m <= 992
+l <= 1200
+xl os demais
+"col s12 m6" pequenos 1 coluna com 100% e tablet pra frente 1 coluna 50%
+Alinhar texto left-align
+center-align
+right-align
+Alinhar vertical valign-wrapper
+Ocultar elementos
+hide = todos dispositivos
+hide-on-small-only: oculto para celulares
+Ver lista completa depois
+Para sombrear ao passar o mouse
+hoverable
